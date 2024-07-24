@@ -1,8 +1,9 @@
-package day24072024;
+package day07072024;
 
 public class Lab003 {
     public static void main(String[] args) {
-        System.out.println("Hello vaishali");
+        System.out.println("Hello world");
+
     }
 
 }
