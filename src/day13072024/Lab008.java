@@ -3,7 +3,8 @@ package day13072024;
 import javax.print.DocFlavor;
 
 public class Lab008 {
-    public static <string> void main(String[] args) {
+    public static void main(String[] args) {
+
 
         // data_type variable_name = variable_value(literal)
 
@@ -32,12 +33,12 @@ public class Lab008 {
            // float
         float pi = 3.14f; // 3.14f;
            // double
-        double d = 118.654;
+        double D = 118.654;
 
 
         // Non-primitive data types
         // string name -> "visualise"; -, number of char or a bunch of char
-        string name = (string) "vaishali";
+        String name = (String) "valise";
           String cc = "c";
     }
 
